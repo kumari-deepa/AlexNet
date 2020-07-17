@@ -1,0 +1,9 @@
+{ 'baby': 0,
+   'cat': 1,
+   'flower': 2,
+   'girl': 3,
+   'map': 4,
+   'mumma': 5,
+   'orange': 6,
+   'sea': 7,
+   'tajmahal': 8,}
